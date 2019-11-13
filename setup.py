@@ -7,7 +7,7 @@ setup(
     author="Jakub Szatkowski",
     author_email="jaksza18@gmail.com",
     description=("A virtual scoreboard for presenting match details."),
-    install_requires=['autobahn==0.16.0', 'Twisted==16.4.1',
+    install_requires=['autobahn==0.16.0', 'Twisted==19.7.0',
                       'pytest==3.0.2', 'click==6.6', 'passlib==1.6.5',
                       'sqlalchemy==1.1', 'pymysql==0.7.9'],
     license="MiT",
